@@ -1,3 +1,12 @@
-# Triangle MCA (Multivariate Correlation Analysis)
+# Triangle MCA (Multivariate Correlation Analysis) for DDoS attack detection
 
-This technique follow the paper by Tan. et al.
+## Description
+This technique mainly proposed by Tan. et al. (https://ieeexplore.ieee.org/document/6519239). Anomaly detection system. 
+
+
+## Status
+Upgrading of the code...
+
+
+
+
